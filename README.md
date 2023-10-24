@@ -25,4 +25,4 @@
 
 ---
 
-Developed : 
+Developed by : **[Hafis CP](https://github.com/hafiscp)** 
