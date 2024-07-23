@@ -8,4 +8,4 @@ oauth2client==3.0.0
 oauthlib==3.2.2
 pip==21.1.1
 python-telegram-bot==13.0
-setuptools==56.0.0
+setuptools==70.0.0
